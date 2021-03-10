@@ -1,0 +1,42 @@
+{  
+    "posts" : [
+      {"id":1, "email":"zelenskii@gmail.com" , "password": "User123@" },
+      {"id":2, "email":"nnazarbaev@gmail.com" , "password": "User123@" },
+      {"id":3, "email":"donaldtrump@gmail.com" , "password": "User123@" },
+      {"id":4, "email":"barakobama@gmail.com" , "password": "User123@" },
+      {"id":5, "email":"vladimirputin@gmail.com" , "password": "User123@" },
+    ],
+    "clothes": [
+  {"id":1, "name":"dress", "info":"A dress (also known as a frock or a gown) is a garment traditionally worn by women or girls consisting of a skirt with an attached bodice."},
+  {"id":2, "name":"jacket", "info":"A jacket is a garment for the upper body, usually extending below the hips."},
+  {"id":3, "name":"shirt", "info":"A shirt is a cloth garment for the upper body (from the neck to the waist)."},
+  {"id":4, "name":"skirt", "info":"A skirt is the lower part of a dress or a separate outer garment that covers a person from the waist downwards."},
+  {"id":5, "name":"trousers", "info":"Trousers, slacks, or pants (North American English) are an item of clothing that might have originated in Central Asia, worn from the waist to the ankles."},
+  {"id":6, "name":"jeans", "info":"Jeans are a type of pants or trousers, typically made from denim or dungaree cloth."},
+  {"id":7, "name":"shoes", "info":"A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion."},
+  {"id":8, "name":"suit jacket", "info":"A dresis a garment traditionally worn by women or girls consisting of a skirt with an attached bodice"},
+  {"id":9, "name":"blouse", "info":"A blouse is a loose-fitting upper garment that was worn by workmen, peasants, artists, women, and children."},
+  {"id":10, "name":"coat", "info":"A coat is a garment worn on the upper body by either gender for warmth or fashion."},
+    ],
+  "dress": [
+{ "post id":"1", "id":101, "name": "Culotte dress", "size": "34", "price": "15000", "colour": "red", "production": "China", "textile": "Satin", "brand": "Zara", "kind": "For women" }
+{ "post id":"2", "id":102, "name": "Bubble dress", "size": "36", "price": "20000", "colour": "pink", "production": "Turkey", "textile": "Corduroy", "brand": "Mango", "kind": "For women" }
+{ "post id":"3", "id":103, "name": "Tutu dress", "size": "38", "price": "25000", "colour": "blue", "production": "Kazakhstan", "textile": "Dunaree", "brand": "Bershka", "kind": "For women" }
+{ "post id":"4", "id":104, "name": "Polo dress", "size": "40", "price": "30000", "colour": "black", "production": "Russia", "textile": "Flannel", "brand": "Koton", "kind": "For women" }
+{ "post id":"5", "id":105, "name": "Baby doll dress", "size": "42", "price": "35000", "colour": "yellow", "production": "USA", "textile": "Denim", "brand": "USPA", "kind": "For women" }
+],
+ "shoes": [
+{ "post id":"1", "id":1, "name": "sneakers", "size": "38", "price": "15000", "colour":"brown", "production": "China", "textile": "tarpaulin", "brand": "Kimex", "kind": "For women" }
+{ "post id":"2", "id":2, "name": "crosses", "size": "39", "price": "25000", "colour":"white", "production": "France", "textile": "prunel-reform", "brand": "Lamoda", "kind": "For men" }
+{ "post id":"3", "id":3, "name": "sandals", "size": "36", "price": "30000", "colour":"black", "production": "Kazakhstan", "textile": "shoe tent", "brand": "Adidas", "kind": "For kids" }
+{ "post id":"4", "id":4, "name": "high-heels", "size": "37", "price": "20000", "colour":"red", "production": "Turkey", "textile": "covercat,", "brand": "Intertop", "kind": "For women" }
+{ "post id":"5", "id":5, "name": "boots", "size": "40", "price": "35000", "colour":"blue", "production": "India", "textile": "reps", "brand": "Nike", "kind": "For men" }
+],
+ "jeans": [
+{ "post id":"1", "id":1, "name": "Regular Fit", "size": "24", "price": "7000", "colour":"black", "production": "Turkey", "textile": "Denim", "brand": "Colin's", "kind": "For women" }
+{ "post id":"2", "id":2, "name": "Loose Fit", "size": "26", "price": "10000", "colour":"dark blue", "production": "Japan", "textile": "Serge", "brand": "Evisu", "kind": "For women" }
+{ "post id":"3", "id":3, "name": "Skinny", "size": "28", "price": "12000", "colour":"white", "production": "China", "textile": "Strench", "brand": "Lee", "kind": "For women" }
+{ "post id":"4", "id":4, "name": "Straight Fit", "size": "30", "price": "15000", "colour":"brown", "production": "America", "textile": "Jean", "brand": "Wrangler", "kind": "For women" }
+{ "post id":"5", "id":5, "name": "Baggy", "size": "32", "price": "17000", "colour":"blue", "production": "Italy", "textile": "Ecru", "brand": "Levis", "kind": "For women" }
+] 
+  }
